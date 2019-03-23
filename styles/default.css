@@ -9,6 +9,8 @@ body {
 	padding: 0 .62em;
 	font-size: 1rem;
 	line-height: 1.6;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 h1, h2, h3 {
